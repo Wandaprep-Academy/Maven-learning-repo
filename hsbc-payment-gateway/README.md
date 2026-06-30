@@ -1,4 +1,4 @@
-# nexus-login-demo
+# Nexus-login-demo
 
 A minimal Spring Boot app that serves a small frontend (Thymeleaf) with form login (Spring Security). It simulates a simple bank "Payment Portal" with a public landing page and a protected dashboard, and is wired up for static analysis (SonarQube) and artifact deployment (Nexus).
 
